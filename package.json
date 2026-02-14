@@ -2,6 +2,7 @@
     "name": "urbanrise-interiors",
     "version": "1.0.0",
     "scripts": {
-        "build": "echo 'Build complete'"
-    }
+        "build": "echo 'No build step required'"
+    },
+    "private": true
 }

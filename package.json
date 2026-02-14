@@ -1,0 +1,11 @@
+{
+    "name": "urbanrise-interiors",
+    "version": "1.0.0",
+    "description": "Urbanrise Interiors Website",
+    "scripts": {
+        "build": "echo 'Static build - no installation required'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
